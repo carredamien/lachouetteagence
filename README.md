@@ -1,4 +1,4 @@
-# lachouetteagence
+# la chouette agence
 
 Projet de la formation de développeur web d'Openclassrooms.
 
